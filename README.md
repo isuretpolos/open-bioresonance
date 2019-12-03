@@ -1,2 +1,1 @@
-# open-bioresonance
-The Open Bioresonance Project
+# The Open Bioresonance Project
